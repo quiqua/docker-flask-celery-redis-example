@@ -1,0 +1,10 @@
+*.pyc
+venv/
+data/
+otp/
+*.log
+*.cache
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
