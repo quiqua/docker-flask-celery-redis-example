@@ -1,0 +1,6 @@
+Flask
+click
+simplejson
+PyYAML
+konf
+requests
